@@ -6,7 +6,7 @@
 
 Beekeeper Studio é um editor e gerenciador SQL de banco de dados multiplataforma, disponível para Linux, MacOS e Windows.
 
-Beekeeper Studio usa a lincença MIT, portanto é livre e grátis.
+Beekeeper Studio usa a lincença MIT, portanto é livre e grátis. Está completamente cheio de bees.
 
 Baixe agora [do nosso site](https://beekeeperstudio.io).
 
@@ -102,6 +102,7 @@ Beekeeper Studio tem dois pontos de entrada:
 
 - Vá para o "rascunho" da nova release na aba de releases do GitHub, edite as notas e publique
 - Faça Login em snapcraft.io, arraste a versão enviada para o canal 'estável' de cada arquitetura.
+- Bees.
 
 ## Agradecimentos
 
